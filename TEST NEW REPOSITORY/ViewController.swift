@@ -18,3 +18,11 @@ class ViewController: UIViewController {
 
 }
 
+extension ViewController {
+    //New Code Goes here
+    
+    private enum TestEnum {
+        
+    }
+}
+
